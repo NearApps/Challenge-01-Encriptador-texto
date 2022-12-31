@@ -41,7 +41,7 @@ Ejemplos:
 
 ---
 
-## ✔️ Requisitos
+## Requisitos
 
 - Debe funcionar solo con letras minúsculas.
 - No deben ser utilizados letras con acentos ni caracteres especiales.
